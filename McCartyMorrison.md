@@ -144,7 +144,8 @@ Write one or two sentences in the turn-in file explaining your twist.
 it allows you to now decline Redbeard's offer a the very start.
 ---
 
-## 7. Insert your mermaid code here: 
+## 7. Insert your mermaid code here:
+
 ```mermaid
 flowchart TD
 X([Redbeard has sent you an Offer]) --> Z
